@@ -1,7 +1,7 @@
 
 # Spotify Wrapped in July (Exploratory Data Analysis and Visualization using Tableau and Python's MatPlotLib, NumPY, Pandas and Seaborn Libraries)
 
-In this project, I took my streaming data from the dates of June 27, 2023 - August 15, 2023 using .json files and explored trends and anomalies while visualizing my findings across a multitude of data analysis and science tools.
+In this project, I took my streaming data from the dates of June 27, 2023 - August 15, 2023 using .json and excel files and explored trends and anomalies while visualizing my findings across a multitude of data analysis and science tools.
 
 
 ## Authors
