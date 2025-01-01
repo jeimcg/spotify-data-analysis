@@ -1,7 +1,0 @@
-# Ignore Python virtual environment
-venv/
-
-# Ignore large temporary files
-*.dylib
-*.so
-*.dll
